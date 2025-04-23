@@ -1,4 +1,4 @@
-# Taneja
+# Facebook Clone Using Tailwind CSS
 
 This is the clone of a facebook page using Tailwind CSS. It looks something like this:
 
